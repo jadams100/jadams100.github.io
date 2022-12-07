@@ -1,3 +1,5 @@
-theme: minimal-mistakes
+theme: al-folio
+url: https://jadams100.github.io
+#baseurl: /<your-repository-name>/.
 title: jadams100's homepage
 description: Bookmark this to keep an eye on my project updates!
