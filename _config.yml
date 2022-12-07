@@ -1,3 +1,7 @@
 theme: jekyll-optional-front-matter
 title: jadams100's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "Jeremy_smile_320x400.jpg"
