@@ -1,10 +1,10 @@
-title: Student Learning Portfolio
-description: Bookmark this to keep an eye on my project updates!
+title: My Learning Portfolio
+description: A portfolio of my accomplishments at Columbus State Community College
 
 remote_theme: andrewfriend-cscc/moonwalk-cscc 
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
