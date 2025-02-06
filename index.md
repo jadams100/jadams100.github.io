@@ -7,12 +7,16 @@
 Here is my GitHub Learning Portfolio.
 
 ## Goals
-I strive to learn more each day. I serve my family, my team, and my community. I work hard to accomplish that which I've committed to do for others.
+* I strive to learn more each day.
+* I serve my family, my team, and my community.
+* I work hard to accomplish that which I've committed to do for others.
 
 ## Courses I've taught:
-* Scripting with Python: NW-SP18, WI22
-* Applied Data Analytics: NW-SU18, EB-AU19, EB-SP21, EB-SP23 (currently teaching)
-* Data Analytics Capstone: EB-SU21
+* Database & SQL Fundamentals: EB-SP-24, EB-SU24
+* Scripting with Python: NW-SP18, EB-AU21, EB-WI22, EB-SP24
+* Applied Data Analytics: NW-SU18, EB-AU19, EB-SP21, EB-SP23, EB-SP24, EB-AU24
+* Data Analytics Capstone: EB-SP20, EB-SU21, EB-SU23, EBSP25
+* Introduction to Artificial Intelligence: EB-SP25 (currently teaching)
 
 ## Certifications Earned While at CSCC:
 * Hogan Assessment Certification 4/27/2021
