@@ -2,7 +2,7 @@
 
 ## Director, Business IT Solutions, Columbus State Community College
 
-![My professional portrait](Jeremy_sile_320x400.jpg)
+![My professional portrait](Jeremy_smile_320x400.jpg)
 
 Here is my GitHub Learning Portfolio.
 
