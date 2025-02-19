@@ -1,6 +1,6 @@
 # Jeremy Adams
 
-### Director, Business IT Solutions, Columbus State Community College
+## Director, Business IT Solutions, Columbus State Community College
 
 ![My professional portrait](Jeremy_smile_320x400.jpg)
 
