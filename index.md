@@ -26,3 +26,11 @@ Here is my GitHub Learning Portfolio.
 
 ### TeachableMachine models
 [My first model!](tm-my-image-model.zip)
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
