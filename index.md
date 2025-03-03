@@ -24,9 +24,7 @@ Here is my GitHub Learning Portfolio.
 * [Tableau Desktop Certified Associate](https://www.credly.com/badges/79a5a3af-7b58-41ea-bbfa-ae3e31377104/public_url)
 * [[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer](https://www.credly.com/badges/f5a9ab32-5d6b-4200-b825-6993fa5a328a/public_url)
 
-### TeachableMachine models
-[My first model!](tm-my-image-model.zip)
-
+## Blog Posts
 <ul>
   {% for post in site.posts %}
     <li>
